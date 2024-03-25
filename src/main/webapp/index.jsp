@@ -183,7 +183,7 @@ footer p {
             Hi there! I'm Yogesh YT, a passionate web developer eager to embark on my journey in the world of web development. I recently graduated with a degree in Computer Science and have been honing my skills in front-end and back-end web development.
         </p>
         <p class="text-lg text-gray-700 mt-4">
-            My fascination with technology and the endless possibilities it offers drove me to dive deep into web development. I love creating beautiful and functional websites that leave a lasting impression on users.
+            My fascination with technology and the endle mmmmss possibilities it offers drove me to dive deep into web development. I love creating beautiful and functional websites that leave a lasting impression on users.
         </p>
         <p class="text-lg text-gray-700 mt-4">
             I am proficient in HTML, CSS, JavaScript, and various front-end frameworks like React and Vue.js. I am also familiar with back-end technologies such as Node.js and Express.js. Continuous learning and staying updated with the latest trends in web development are essential to me.
