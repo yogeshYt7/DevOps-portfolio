@@ -78,7 +78,6 @@ header {
     border-radius: 5px;
     margin-bottom: 10px;
 }
-///ghhdjjd?//
 .project-card h3 {
     color: #333;
     font-size: 20px;
