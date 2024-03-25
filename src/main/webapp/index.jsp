@@ -158,7 +158,8 @@ footer p {
                     <li><a href="#" class="text-gray-600 hover:text-gray-900">Skills</a></li>
                     <li><a href="#" class="text-gray-600 hover:text-gray-900">Projects</a></li>
                     <li><a href="#" class="text-gray-600 hover:text-gray-900">Contact</a></li>
-                </ul>
+              
+</ul>
             </div>
         </div>
     </div>
